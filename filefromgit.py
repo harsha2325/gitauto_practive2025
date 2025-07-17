@@ -1,1 +1,2 @@
 print("this is for new file created after clone the file in pycharm i ahve created this file in git now i am committing then puuling from pycharm")
+print("now the file is in pycharm after pullrequest now i am adding line to push after commit, in the left side click on commit and select file to commit and also write comment")
